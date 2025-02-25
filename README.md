@@ -1,4 +1,5 @@
-[requirements txt](https://github.com/user-attachments/assets/1f8b6a87-c224-4f93-9633-6e3a16c92676)
+
+![requirements txt](https://github.com/user-attachments/assets/1f8b6a87-c224-4f93-9633-6e3a16c92676)
 Prerequisite: You need a ComfyUI environment with VENV properly prepared.
 This is an altar where to sacrifice copies of requirements.txt from inside ComfyUI/Custom_Nodes/YourBrokenNode whereas you will copy the .txt file besides the .bat file and it will get deleted, but not before installing the dependencies of the said broken node in the activated and later deactivated conda virtual environment.
 Venv ensures that your ComfyUI have its dependencies installed locally rather than system-wide which prevents conflicts.
