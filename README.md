@@ -1,5 +1,4 @@
-
-![requirements txt](https://github.com/user-attachments/assets/1f8b6a87-c224-4f93-9633-6e3a16c92676)
+![ALTAR]((https://github.com/cheesecakejohnsonturbo/RequirementsALTAR/blob/main/Artwork/ALTAR.png)
 
 https://github.com/cheesecakejohnsonturbo/ComfyUIVENVpreparationTool `Venv Installer for Preinstalled ComfyUI (not tested on portable but only on manually installed ComfyUI but should work too)`
 
