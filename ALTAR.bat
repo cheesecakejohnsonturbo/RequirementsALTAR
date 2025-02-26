@@ -61,7 +61,7 @@ IF NOT EXIST "%~dp0\requirements.txt" (
 )
 
 echo Requirements found. Press a key to proceed to the next step.
-pause >nul
+::pause >nul
 
 ::step4::Checking if the file contains anything::
 for /f %%a in ('type "%~dp0\requirements.txt" ^| find /v /c ""') do set line_count=%%a
